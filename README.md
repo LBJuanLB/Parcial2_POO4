@@ -1,6 +1,4 @@
-# Parcial2_POO4
-
-Parcial 2 Programacion IV
+# Parcial 2 Programacion IV
 
 Nombre: Juan Jose Espinosa Mendez
 
